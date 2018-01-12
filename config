@@ -26,3 +26,5 @@ default-image-converter   : gm
 
 // Default theme
 default-theme             : default
+default-ip                 : auto
+default-port               : auto
